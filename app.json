@@ -1,4 +1,15 @@
 {
-  "name": "finance-mobile2",
-  "slug": "finance-mobile2"
+  "expo": {
+    "name": "FinanceMobile",
+    "slug": "finance-mobile",
+    "scheme": "financemobile", 
+    "web": {
+      "router": "expo-router"
+    },
+    "extra": {
+      "router": {
+        "origin": "./app" 
+      }
+    }
+  }
 }
