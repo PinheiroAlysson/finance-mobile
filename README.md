@@ -45,8 +45,7 @@ Siga os passos abaixo para configurar e executar a aplicação no seu ambiente:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://www.youtube.com/watch?v=RqfwLeY952s](https://www.youtube.com/watch?v=RqfwLeY952s)
-cd [pasta-do-seu-projeto]
+git clone [https://github.com/PinheiroAlysson/finance-mobile]
 
 # 2. Instale as dependências
 npm install
