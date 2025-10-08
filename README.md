@@ -1,7 +1,4 @@
-# expo-router
-
-Check out the [Expo Router documentation](https://docs.expo.dev/routing/introduction/) for more information.
-
+**`!!!O projeto foi desenvolvido em Expo/React Native. Devido a problemas com configuração local do Node e sincronização do OneDrive, o ambiente precisa ser limpo e as dependências reinstaladas para rodar localmente.!!!`**
 # 💰 Finance Mobile - Gerenciamento Financeiro Mobile
 
 ## 💡 Visão Geral e Objetivo
